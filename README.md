@@ -7,15 +7,11 @@ yt_dlp installed. You can install it using pip.
 
 
 #Installation
-1.Clone the Repository
-git clone https://github.com/yourusername/yt-dlp-downloader.git
-cd yt-dlp-downloader
-
-2.Install Required Packages
+Install Required Packages
 Install yt_dlp using pip:
 pip install yt-dlp
 
-3.(Optional) Install FFmpeg
+(Optional) Install FFmpeg
 For audio extraction, yt_dlp uses FFmpeg. You can download and install FFmpeg from FFmpeg.org.
 Usage
 To download a video or audio file, follow these steps:
